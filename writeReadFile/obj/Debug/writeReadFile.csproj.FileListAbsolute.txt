@@ -1,0 +1,5 @@
+C:\Library\writeReadFile\writeReadFile\bin\Debug\writeReadFile.dll
+C:\Library\writeReadFile\writeReadFile\bin\Debug\writeReadFile.pdb
+C:\Library\writeReadFile\writeReadFile\obj\Debug\writeReadFile.csprojResolveAssemblyReference.cache
+C:\Library\writeReadFile\writeReadFile\obj\Debug\writeReadFile.dll
+C:\Library\writeReadFile\writeReadFile\obj\Debug\writeReadFile.pdb
